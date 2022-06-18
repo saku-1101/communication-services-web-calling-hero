@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Azure-Samples/communication-services-web-calling-hero/issues"
   },
-  "homepage": "https://github.com/Azure-Samples/communication-services-web-calling-hero#readme"
+  "homepage": "https://github.com/Azure-Samples/communication-services-web-calling-hero#readme",
+  "dependencies": {
+    "@azure/communication-identity": "^1.0.0"
+  }
 }
